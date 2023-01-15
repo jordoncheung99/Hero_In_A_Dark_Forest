@@ -1,0 +1,58 @@
+[
+  {
+    "enemy_id": 1,
+    "health": 20,
+    "name": "slime",
+    "attack_pattern": [10,15,0,50],
+    "messages": ["The slime smacks you!", "The slime slams you!",
+      "It does nothing! is it charging up?", "The slime leaps into the air and crashes down on top of you!"]
+  },
+  {
+    "enemy_id": 2,
+    "health": 40,
+    "name": "mimic",
+    "attack_pattern": [20,35,0,90],
+    "messages": ["The mimic stretches out both hands", "The mimic crunches on you",
+      "The mimic bares its teeth at you", "The mimic attempts to swallow you whole"]
+  },
+  {
+    "enemy_id": 3,
+    "health": 100,
+    "name": "troll",
+    "attack_pattern": [40,45,40,60],
+    "messages": ["The troll throws a right fist at you", "The troll tries to stomp on you",
+      "The troll tries to kick you", "The troll brings down its club on you"]
+  },
+  {
+    "enemy_id": 4,
+    "health": 60,
+    "name": "bandit",
+    "attack_pattern": [25,27,30,30],
+    "messages": ["The bandit nicks you", "The bandit goes for a stab",
+      "The bandit slashes at you", "The bandit does a follow up slash"]
+  },
+  {
+    "enemy_id": 5,
+    "health": 50,
+    "name": "skeleton",
+    "attack_pattern": [30,0,130,0],
+    "messages": ["The skeleton slashes at you with its sword", "The skeleton glows with dark energies",
+      "A powerful blast of dark energies hits you squarely in the chest", "The skeleton seems immobile after that attack"]
+  },
+  {
+    "enemy_id": 6,
+    "health": 60,
+    "name": "goblin",
+    "attack_pattern": [30,25,35,20],
+    "messages": ["The goblin slashes at you", "The goblin goes for a quick follow up",
+      "The goblin goes for an rising slash", "The goblin takes a stab at you"]
+  },
+  {
+    "enemy_id": 7,
+    "health": 200,
+    "name": "dragon",
+    "attack_pattern": [70,50,0,130,120],
+    "messages": ["The dragon slashes at you with its claws", "The Dragon bites at you",
+      "! It seems its charging up for something", "A wave of fire engulf you","The endless stream of fire comes to a stop"]
+  }
+]

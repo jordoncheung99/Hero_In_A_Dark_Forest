@@ -1,0 +1,189 @@
+[
+  {
+    "x": 3,
+    "y": 0,
+    "consumed": true,
+    "use_id": 1,
+    "remote_tile_id": 1,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hear a click as the door unlocks",
+    "item": "key"
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "consumed": true,
+    "use_id": 1,
+    "remote_tile_id": 1,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hear a click as the door unlocks",
+    "item": "key"
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "consumed": true,
+    "use_id": 2,
+    "remote_tile_id": -1,
+    "remote_item_id": 1,
+    "movement_id": -1,
+    "message": "The pot rattles and after a while you check it, The stone grows bright with power",
+    "item": "fire stone"
+  },
+  {
+    "x": 10,
+    "y": 9,
+    "consumed": false,
+    "use_id": 3,
+    "remote_tile_id": 2,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You fell the great tree. It comes crashing down forming a new bridge crossing the river",
+    "item": "axe"
+  },
+  {
+    "x": 19,
+    "y": 1,
+    "consumed": true,
+    "use_id": 4,
+    "remote_tile_id": 3,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "Thank you Deary! Here take something from my tent, well worth the reward",
+    "item": "white-brown herb"
+  },
+  {
+    "x": 3,
+    "y": 7,
+    "consumed": false,
+    "use_id": 13,
+    "remote_tile_id": -1,
+    "remote_item_id": 3,
+    "movement_id": -1,
+    "message": "You dig up the soft dirt, finding a small strong box containing a beautiful amulet",
+    "item": "shovel"
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "consumed": true,
+    "use_id": 5,
+    "remote_tile_id": -1,
+    "remote_item_id": 2,
+    "movement_id": -1,
+    "message": "You place the flowers upon the grave, paying your respects. You take the shield, hopefully it will serve you better.",
+    "item": "flower"
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "consumed": true,
+    "use_id": 6,
+    "remote_tile_id": 4,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "They don't pay me enough to stop you",
+    "item": "gold bars"
+  },
+  {
+    "x": 7,
+    "y": 11,
+    "consumed": false,
+    "use_id": 7,
+    "remote_tile_id": 5,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hack away at the bushes around you",
+    "item": "machete"
+  },
+  {
+    "x": 8,
+    "y": 11,
+    "consumed": false,
+    "use_id": 7,
+    "remote_tile_id": 5,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hack away at the bushes around you",
+    "item": "machete"
+  },
+  {
+    "x": 6,
+    "y": 12,
+    "consumed": false,
+    "use_id": 7,
+    "remote_tile_id": 5,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hack away at the bushes around you",
+    "item": "machete"
+  },
+  {
+    "x": 9,
+    "y": 12,
+    "consumed": false,
+    "use_id": 7,
+    "remote_tile_id": 5,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You hack away at the bushes around you",
+    "item": "machete"
+  },
+  {
+    "x": 19,
+    "y": 11,
+    "consumed": false,
+    "use_id": 8,
+    "remote_tile_id": -1,
+    "remote_item_id": 4,
+    "movement_id": -1,
+    "message": "A cape! What a regal hero you are! I see you're missing a proper weapon, take this!",
+    "item": "cape"
+  },
+  {
+    "x": 14,
+    "y": 16,
+    "consumed": true,
+    "use_id": 9,
+    "remote_tile_id": 6,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "You place down the little cub, it happily runs towards its mother",
+    "item": "bear cub"
+  },
+  {
+    "x": 5,
+    "y": 17,
+    "consumed": true,
+    "use_id": 10,
+    "remote_tile_id": -1,
+    "remote_item_id": -1,
+    "movement_id": 1,
+    "message": "You place the heavy rock onto the pressure plate, good bye my good friend",
+    "item": "cool rock"
+  },
+  {
+    "x": 19,
+    "y": 18,
+    "consumed": true,
+    "use_id": 11,
+    "remote_tile_id": 7,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "The ghost takes the hat from your hands, it allows you passage",
+    "item": "captain's hat"
+  },
+  {
+    "x": 15,
+    "y": 20,
+    "consumed": true,
+    "use_id": 12,
+    "remote_tile_id": 8,
+    "remote_item_id": -1,
+    "movement_id": -1,
+    "message": "Well this is mighty valuable indeed, you may pass. The merchant quickly runs off",
+    "item": "dragon scale"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "x": 3,
+    "y": 1,
+    "char": "D",
+    "desc": "The door creeks open",
+    "wall": false
+  },
+  {
+    "id": 2,
+    "x": 11,
+    "y": 9,
+    "char": "T",
+    "desc": "You carefully walk across the new bridge",
+    "wall": false
+  },
+  {
+    "id": 3,
+    "x": 20,
+    "y": 1,
+    "char": "-",
+    "desc": "You see a red hot stone, you can feel the warmth from here",
+    "wall": false
+  },
+  {
+    "id": 4,
+    "x": 15,
+    "y": 9,
+    "char": "G",
+    "desc": "The gate is wide open, the thick doors make it impossible to break it",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 7,
+    "y": 12,
+    "char": ".",
+    "desc": "You see pretty purple berries, you recall something about poison. Best not eat them",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 8,
+    "y": 12,
+    "char": ".",
+    "desc": "Ack! You feels something cold on your shoulder! Oh wait it just a vine",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 7,
+    "y": 11,
+    "char": ".",
+    "desc": "The vegetation looks devastated from what you did to it",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 8,
+    "y": 11,
+    "char": ".",
+    "desc": "The vegetation looks devastated from what you did to it",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 6,
+    "y": 12,
+    "char": ".",
+    "desc": "The vegetation looks devastated from what you did to it",
+    "wall": false
+  },
+  {
+    "id": 5,
+    "x": 9,
+    "y": 12,
+    "char": ".",
+    "desc": "The vegetation looks devastated from what you did to it",
+    "wall": false
+  },
+  {
+    "id": 6,
+    "x": 13,
+    "y": 16,
+    "char": ".",
+    "desc": "An oasis, a beautify little flower grows here",
+    "wall": false
+  },
+  {
+    "id": 7,
+    "x": 19,
+    "y": 19,
+    "char": "d",
+    "desc": "A door to a once mighty ship, you wonder how it got stranded here",
+    "wall": false
+  },
+  {
+    "id": 8,
+    "x": 14,
+    "y": 20,
+    "char": ".",
+    "desc": "You see a very pretty teal stone",
+    "wall": false
+  }
+]

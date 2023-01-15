@@ -1,0 +1,22 @@
+[
+  {
+    "desc": "You feel an immesnse power flowing through this stone",
+    "id": 1,
+    "name": "Sun stone"
+  },
+  {
+    "desc": "A round sheet of wood, trimmed with a steel edge.",
+    "id": 2,
+    "name": "shield"
+  },
+  {
+    "desc": "A beautifully carved amulet adorn with a brilliant teal gem",
+    "id": 3,
+    "name": "amulet"
+  },
+  {
+    "desc": "A damascus steel sword, fit for a hero like you",
+    "id": 4,
+    "name": "sword"
+  }
+]

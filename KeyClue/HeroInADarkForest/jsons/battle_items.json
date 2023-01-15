@@ -1,0 +1,59 @@
+[
+  {
+    "name": "fists",
+    "message": ["You named both of them cents", "You wish you had something better",
+      "Time to give them a knuckle sandwich"],
+    "def": 0,
+    "atk": 20
+  },
+  {
+    "name": "axe",
+    "message": ["You bring down your axe with great force", "You perform a twirl before going in with a slash",
+      "You throw your axe... You quickly retrieve it after"],
+    "def": 0,
+    "atk": 5
+  },
+  {
+    "name": "machete",
+    "message": ["The machete feels quite good in your hands", "You make quick slashes with your machete",
+      "You make a quick jab with your machete"],
+    "def": 0,
+    "atk": 10
+  },
+  {
+    "name": "sword",
+    "message": ["While you studied 201 I studied the blade", "You slash with great might using your sword",
+      "You make a skillful lung at your foe"],
+    "def": 0,
+    "atk": 20
+  },
+  {
+    "name": "shield",
+    "message": ["You raise your shield in defence", "You block a mighty blow with your shield",
+      "You are thankful that the shield took the hit instead of you"],
+    "def": 5,
+    "atk": 0
+  },
+  {
+    "name": "amulet",
+    "message": ["You feel the defensive magic of your amulet", "The power around your neck protects you",
+      "You feel a protective aura originating around your neck"],
+    "def": 5,
+    "atk": 0
+  },
+  {
+    "name": "cape",
+    "message": ["The cape flaps uselessly around you", "You feel cool with the useless cape flapping behind you",
+      "Your cape almost got caught on something, you feel this cape is almost a detriment"],
+    "def": 1,
+    "atk": 0
+  },
+  {
+    "name": "mithril armor",
+    "message": ["Nothing like sold metal between you and an enemy",
+      "Whoa! that one would of put a hole through your chest! Good thing you have armor",
+      "You wonder what would of happened if you weren't wearing armor"],
+    "def": 10,
+    "atk": 0
+  }
+]
